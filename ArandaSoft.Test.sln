@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.UI", "1.UI", "{FD835DDC-88A7-452C-87EB-419F245FBB1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.API", "2.API", "{5386D6CE-8826-4EFD-AFBD-4E9F1DDA471E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.SERVICE", "3.SERVICE", "{BA7FCAE4-E74C-49FC-9F77-8E80879894B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.MODEL", "4.MODEL", "{9087F0EE-2790-4310-AA61-0B113863EAF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.SHARED", "5.SHARED", "{17032EC5-8426-4603-884B-6BCB396D0E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.API", "ArandaSoft.Test.API\ArandaSoft.Test.API.csproj", "{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Model.Context", "ArandaSoft.Test.Model.Context\ArandaSoft.Test.Model.Context.csproj", "{E5DF4E8F-E19E-4A9D-940E-08227627DF16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Model.Entity", "ArandaSoft.Test.Model.Entity\ArandaSoft.Test.Model.Entity.csproj", "{839C3AE3-C04E-49F5-BA8B-32802AD61F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Service.Contract", "ArandaSoft.Test.Service.Contract\ArandaSoft.Test.Service.Contract.csproj", "{A9F489D7-0094-48F5-9F46-C02402432E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Service.Implementation", "ArandaSoft.Test.Service.Implementation\ArandaSoft.Test.Service.Implementation.csproj", "{0922923C-426B-40B9-99D3-88A8262120D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Shared.DTO", "ArandaSoft.Test.Shared.DTO\ArandaSoft.Test.Shared.DTO.csproj", "{5C0A57F7-459F-4BFE-8118-822F6B9AF64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArandaSoft.Test.Shared.Parameter", "ArandaSoft.Test.Shared.Parameter\ArandaSoft.Test.Shared.Parameter.csproj", "{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DF4E8F-E19E-4A9D-940E-08227627DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DF4E8F-E19E-4A9D-940E-08227627DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DF4E8F-E19E-4A9D-940E-08227627DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DF4E8F-E19E-4A9D-940E-08227627DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839C3AE3-C04E-49F5-BA8B-32802AD61F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839C3AE3-C04E-49F5-BA8B-32802AD61F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839C3AE3-C04E-49F5-BA8B-32802AD61F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839C3AE3-C04E-49F5-BA8B-32802AD61F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F489D7-0094-48F5-9F46-C02402432E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F489D7-0094-48F5-9F46-C02402432E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F489D7-0094-48F5-9F46-C02402432E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F489D7-0094-48F5-9F46-C02402432E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0922923C-426B-40B9-99D3-88A8262120D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0922923C-426B-40B9-99D3-88A8262120D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0922923C-426B-40B9-99D3-88A8262120D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0922923C-426B-40B9-99D3-88A8262120D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0A57F7-459F-4BFE-8118-822F6B9AF64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0A57F7-459F-4BFE-8118-822F6B9AF64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0A57F7-459F-4BFE-8118-822F6B9AF64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0A57F7-459F-4BFE-8118-822F6B9AF64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{785E61DA-EF34-4E6D-9AAE-815B7B3CD5D9} = {5386D6CE-8826-4EFD-AFBD-4E9F1DDA471E}
+		{E5DF4E8F-E19E-4A9D-940E-08227627DF16} = {9087F0EE-2790-4310-AA61-0B113863EAF2}
+		{839C3AE3-C04E-49F5-BA8B-32802AD61F1C} = {9087F0EE-2790-4310-AA61-0B113863EAF2}
+		{A9F489D7-0094-48F5-9F46-C02402432E29} = {BA7FCAE4-E74C-49FC-9F77-8E80879894B5}
+		{0922923C-426B-40B9-99D3-88A8262120D0} = {BA7FCAE4-E74C-49FC-9F77-8E80879894B5}
+		{5C0A57F7-459F-4BFE-8118-822F6B9AF64B} = {17032EC5-8426-4603-884B-6BCB396D0E37}
+		{DA0CD129-1F88-4E24-8BF6-DBF1BB778B14} = {17032EC5-8426-4603-884B-6BCB396D0E37}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8CB533-AF36-4FE8-9F5D-D86D121D1A13}
+	EndGlobalSection
+EndGlobal

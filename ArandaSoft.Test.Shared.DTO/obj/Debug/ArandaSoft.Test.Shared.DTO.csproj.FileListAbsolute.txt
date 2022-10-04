@@ -1,0 +1,6 @@
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\bin\Debug\ArandaSoft.Test.Shared.DTO.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\bin\Debug\ArandaSoft.Test.Shared.DTO.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\obj\Debug\ArandaSoft.Test.Shared.DTO.csprojAssemblyReference.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\obj\Debug\ArandaSoft.Test.Shared.DTO.csproj.CoreCompileInputs.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\obj\Debug\ArandaSoft.Test.Shared.DTO.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.DTO\obj\Debug\ArandaSoft.Test.Shared.DTO.pdb

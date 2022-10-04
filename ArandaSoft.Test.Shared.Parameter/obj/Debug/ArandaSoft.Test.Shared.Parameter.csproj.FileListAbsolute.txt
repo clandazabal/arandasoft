@@ -1,0 +1,5 @@
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.Parameter\bin\Debug\ArandaSoft.Test.Shared.Parameter.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.Parameter\bin\Debug\ArandaSoft.Test.Shared.Parameter.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.Parameter\obj\Debug\ArandaSoft.Test.Shared.Parameter.csproj.CoreCompileInputs.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.Parameter\obj\Debug\ArandaSoft.Test.Shared.Parameter.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Shared.Parameter\obj\Debug\ArandaSoft.Test.Shared.Parameter.pdb

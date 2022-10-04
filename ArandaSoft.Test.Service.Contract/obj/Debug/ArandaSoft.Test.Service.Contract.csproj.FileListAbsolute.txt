@@ -1,0 +1,11 @@
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Service.Contract.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Service.Contract.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Shared.DTO.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Shared.Parameter.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Shared.DTO.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\bin\Debug\ArandaSoft.Test.Shared.Parameter.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\obj\Debug\ArandaSoft.Test.Service.Contract.csprojAssemblyReference.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\obj\Debug\ArandaSoft.Test.Service.Contract.csproj.CoreCompileInputs.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\obj\Debug\ArandaSoft.Test.Service.Contract.csproj.CopyComplete
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\obj\Debug\ArandaSoft.Test.Service.Contract.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Service.Contract\obj\Debug\ArandaSoft.Test.Service.Contract.pdb

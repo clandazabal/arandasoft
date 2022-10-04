@@ -1,0 +1,14 @@
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\ArandaSoft.Test.Model.Context.dll.config
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\ArandaSoft.Test.Model.Context.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\ArandaSoft.Test.Model.Context.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\ArandaSoft.Test.Model.Entity.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\EntityFramework.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\ArandaSoft.Test.Model.Entity.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\EntityFramework.xml
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\obj\Debug\ArandaSoft.Test.Model.Context.csprojAssemblyReference.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\obj\Debug\ArandaSoft.Test.Model.Context.csproj.CoreCompileInputs.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\obj\Debug\ArandaSoft.Test.Model.Context.csproj.CopyComplete
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\obj\Debug\ArandaSoft.Test.Model.Context.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Context\obj\Debug\ArandaSoft.Test.Model.Context.pdb

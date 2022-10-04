@@ -1,0 +1,5 @@
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Entity\bin\Debug\ArandaSoft.Test.Model.Entity.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Entity\bin\Debug\ArandaSoft.Test.Model.Entity.pdb
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Entity\obj\Debug\ArandaSoft.Test.Model.Entity.csproj.CoreCompileInputs.cache
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Entity\obj\Debug\ArandaSoft.Test.Model.Entity.dll
+C:\ArandaSoft\ArandaSoft.Test\ArandaSoft.Test.Model.Entity\obj\Debug\ArandaSoft.Test.Model.Entity.pdb
